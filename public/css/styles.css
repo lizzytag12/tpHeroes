@@ -1,0 +1,284 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+    body{
+    
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+    #container{
+        width: 100vw;
+        height: 10vw;
+        background-color: #191c32;
+        color: rgb(250, 241, 241);
+      
+    }
+    
+    span{
+        color: brown;
+        padding-left: 15px;
+    
+    }
+    
+    h1{
+        padding: 25px;
+    }
+    
+    .menu li{
+        list-style: none;
+        display: inline;
+        padding: 25px;  
+    }
+    
+    .menu a{
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    .menu a:hover{
+    
+        background-color: aqua;
+        
+    
+    }
+    header{
+        text-align: center;
+         font-size: large; 
+        padding: 20px;
+       
+    }
+    
+    section{
+        width: 100vw;
+        height: 80vw;
+        background-color: #8083a0;
+        padding: 30px;
+      
+    }
+    
+    h2{
+        font-size:35px;
+        padding: 10px;
+        text-align: left;
+        color: #ffff;
+        margin-bottom: 20px;
+    }
+    
+     img{
+        border: 3px solid rgb(155, 33, 11);
+        float: left;
+        margin-right: 15px;
+        width: 45%;
+        height: 30%;
+         
+    }
+     .content{
+        display: flex;
+        justify-content: center ;
+        padding: 20px 20px;
+        width: 450px;
+        height: 300px;
+        line-height: 50px;
+        margin-left: 15px;
+        
+        
+     }
+     p{
+        line-height: 30px;
+         
+     }
+     h4{
+         color: #ffff;
+         margin-bottom: 20px;
+    
+     }
+ /*  
+  @media (min-width: 600px), handheld and (orientation: landscape){
+    body{
+    
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+    #container{
+        width: 100vw;
+        height: 20vw;
+        background-color: #191c32;
+        color: rgb(250, 241, 241);
+      
+    }
+    
+    span{
+        color: brown;
+        padding-left: 15px;
+    
+    }
+    
+    h1{
+        padding: 25px;
+    }
+    
+    .menu li{
+        list-style: none;
+        display: inline;
+        padding: 25px;  
+    }
+    
+    .menu a{
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    .menu a:hover{
+    
+        background-color: aqua;
+        
+    
+    }
+    header{
+        text-align: center;
+         font-size: large; 
+        padding: 20px;
+       
+    }
+    
+    section{
+        width: 100vw;
+        height: 80vw;
+        background-color: #8083a0;
+        padding: 30px;
+      
+    }
+    
+    h2{
+        font-size:35px;
+        padding: 10px;
+        text-align: left;
+        color: #ffff;
+    }
+    
+     img{
+        border: 3px solid rgb(155, 33, 11);
+        float: left;
+        margin-right: 15px;
+        width: 45%;
+        height: 30%;
+         
+    }
+     .content{
+        display: flex;
+        justify-content: center ;
+        padding: 20px 20px;
+        width: 450px;
+        height: 300px;
+        line-height: 50px;
+        margin-left: 15px;
+        
+        
+     }
+     p{
+        line-height: 30px;
+         
+     }
+     h4{
+         color: #ffff;
+         margin-bottom: 20px;
+    
+     }
+
+  }
+  @media (min-width: 100px), handheld and (orientation: landscape){
+    body{
+    
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        
+    }
+    #container{
+        width: 100vw;
+        height: 20vw;
+        background-color: #191c32;
+        color: rgb(250, 241, 241);
+      
+    }
+    
+    span{
+        color: brown;
+        padding-left: 15px;
+    
+    }
+    
+    h1{
+        padding: 25px;
+    }
+    
+    .menu li{
+        list-style: none;
+        display: inline;
+        padding: 25px;  
+    }
+    
+    .menu a{
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    .menu a:hover{
+    
+        background-color: aqua;
+        
+    
+    }
+    header{
+        text-align: center;
+         font-size: large; 
+        padding: 20px;
+       
+    }
+    
+    section{
+        width: 100vw;
+        height: 80vw;
+        background-color: #8083a0;
+        padding: 30px;
+      
+    }
+    
+    h2{
+        font-size:35px;
+        padding: 10px;
+        text-align: left;
+        color: #ffff;
+    }
+    
+     img{
+        border: 3px solid rgb(155, 33, 11);
+        float: left;
+        margin-right: 15px;
+        width: 45%;
+        height: 30%;
+         
+    }
+     .content{
+        display: flex;
+        justify-content: center ;
+        padding: 20px 20px;
+        width: 450px;
+        height: 300px;
+        line-height: 50px;
+        margin-left: 15px;
+        
+        
+     }
+     p{
+        line-height: 30px;
+         
+     }
+     h4{
+         color: #ffff;
+         margin-bottom: 20px;
+    
+     }
+ } */
